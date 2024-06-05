@@ -1,0 +1,37 @@
+@charset "utf-8";
+.body {
+	background-color: white;
+	padding: 0;
+	float:center;
+    margin: 0;   
+    width:100vw;
+    height: 100vh;
+}
+#h2 {
+font-weight:bold;
+color:#ff9a1f;	
+}
+
+.footer {
+	float:bottom;
+	font-weight:bold;
+	height:10vh;
+	font-family:Lucida Handwriting;
+	background-color:pink;
+	border-style:dashed;
+	border-color:white;
+	
+}
+.sidebar {
+	float:left;
+	background-color:teal;
+	border-style: dashed;
+	border-color: blue;
+	width:9vw;
+	height:100vh;
+}
+#content {
+	
+	position:right;
+
+}
